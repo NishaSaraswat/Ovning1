@@ -1,0 +1,11 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    width: 30%;
+    font-size: 50px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
