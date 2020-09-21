@@ -1,5 +1,6 @@
-ul li{
+li{
     font-size:14px;
-    color: dark blue;
+    color: darkblue;
     text-decoration:underline;
+    list-style-type: none;
 }
