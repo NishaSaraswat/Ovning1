@@ -2,7 +2,5 @@ li{
     font-size:14px;
     color: darkblue;
     text-decoration:underline;
-}
-ul{
-    text-decoration: none;
+    list-style-type: none;
 }
